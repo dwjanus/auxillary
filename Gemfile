@@ -1,3 +1,4 @@
-gem 'slack-ruby-client', '~> 0.1.0'
+source 'https://rubygems.org'
 
-gem 'slack-api'
+gem 'sinatra'
+gem 'httparty'
