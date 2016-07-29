@@ -1,2 +1,2 @@
-require './app'
+require './slackmanage'
 run Sinatra::Application
