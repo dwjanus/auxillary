@@ -1,1 +1,1 @@
-console: bundle exec ruby slackmanage.rb
+web: bundle exec puma -p $PORT
