@@ -1,8 +1,9 @@
 ruby '2.3.1'
 source 'https://rubygems.org'
 
+gem 'http'
+gem 'json'
+gem 'faye-websocket'
+gem 'eventmachine'
 gem 'sinatra'
-gem 'httparty'
-gem 'slack-ruby-bot'
-gem 'celluloid-io'
-gem 'heroku'
+#gem 'puma'
